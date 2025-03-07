@@ -2,9 +2,11 @@
 
 # The Tenfold Path
 
-The Tenfold Path is a personal project of [Dan Brubaker Horst][2] (DBH; [@danhorst][3]).
-It is a resource for becoming a better human being.
-I hope it is of some use to you.
+> [!WARNING]
+> My priorities have changed and I am no longer maintaining this project.
+
+The Tenfold Path was a personal project of [Dan Brubaker Horst][2] (DBH; [@danhorst][3]).
+It was intended to be a public resource for becoming a better human being.
 
 [1]: https://raw.github.com/tenfoldpath/.github/main/logo.svg?sanitize=true
 [2]: https://dan.brubakerhorst.com
